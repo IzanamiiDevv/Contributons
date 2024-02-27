@@ -1,2 +1,3 @@
 # ZeddyGabby-Home
-A Basic HomePage For my Friend
+A Basic HomePage For my Friend.
+
