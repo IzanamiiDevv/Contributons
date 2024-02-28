@@ -1,5 +1,5 @@
 body{
-    background-image: url('pinkk.jpg');
+    background-image: url("./background.jpg");
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
