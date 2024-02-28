@@ -3,6 +3,9 @@ body{
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
+    color : #F8F3EA;
+    font-family: sans-serif;
+
 }
 
 h1{
@@ -10,7 +13,7 @@ h1{
 }
 
 .navbar {
-    background-color: lightblue;
+    background-color: #FA9EBC;
     overflow: hidden;
 }
 
@@ -27,13 +30,12 @@ h1{
 
 #nav-title {
     float: left;
-    color: white;
     font-weight: bold;
     padding: 15px;
 }
 
 .navbar ul li a {
-    color: white;
+    color: #F8F3EA;
     text-decoration: none;
     display: block;
     text-align: center;
@@ -42,7 +44,7 @@ h1{
 }
 
 .navbar ul li a:hover {
-    background-color: lightcyan;
+    background-color: #F4D1FF;
 }
 
 
