@@ -2,11 +2,14 @@
 
 Welcome to my GitHub repository showcasing various projects I have created to contribute and assist others. In this collection, you'll find a variety of projects aimed at providing support and solutions to different needs. Feel free to explore and use these projects as resources for your own endeavors.
 
+<hr>
+
 ## Table of Contents
 
 1. [Project 1](#project-1)
 2. [Project 2](#project-2)
 
+<hr>
 
 ## Project 1
 
