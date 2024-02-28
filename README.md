@@ -27,6 +27,6 @@ If you have ideas for improvements or would like to contribute to any of the pro
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Autorithy - see the [LICENSE](LICENSE) file for details.
 
 Thank you for visiting! Feel free to reach out if you have any questions or suggestions.
