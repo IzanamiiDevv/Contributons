@@ -22,7 +22,7 @@ Description of the second project goes here.
 
 ## How to Use
 
-Provide instructions on how to use and integrate these projects into your own work.
+Click The Green Button Says "Code" and Download the zip file then extract the file and run!
 
 ## Contributing
 
