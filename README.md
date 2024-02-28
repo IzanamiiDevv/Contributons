@@ -27,9 +27,3 @@ Provide instructions on how to use and integrate these projects into your own wo
 ## Contributing
 
 If you have ideas for improvements or would like to contribute to any of the projects, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the Autorithy - see the [LICENSE](LICENSE) file for details.
-
-Thank you for visiting! Feel free to reach out if you have any questions or suggestions.
