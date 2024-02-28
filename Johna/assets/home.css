@@ -1,0 +1,37 @@
+body{
+    background-image: url('pinkk.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar ul{
+        list-style-type: none;
+        background-color: lightblue;
+        padding: 0px;
+        margin: 0px;
+        overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: lightcyan;
+}
+.navbar li{
+    float: left;
+}
+
+button { background-color: pink;
+       font-size: 10px;
+       color: red; 
+       border-radius: 5px;
+}
