@@ -11,7 +11,8 @@ Welcome to my GitHub repository showcasing various projects I have created to co
 
 <hr>
 
-## Project 1
+## Project 1:
+### Ga
 
 Description of the first project goes here.
 
