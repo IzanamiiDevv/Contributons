@@ -12,13 +12,12 @@ Welcome to my GitHub repository showcasing various projects I have created to co
 <hr>
 
 ## Project 1:
-### Ga
 
 Description of the first project goes here.
 
 ## Project 2
-
-Description of the second project goes here.
+### Code Craft
+A Basic Static Homepage Created in Vanilla HTML and CSS
 
 
 ## How to Use
