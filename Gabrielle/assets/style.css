@@ -5,10 +5,14 @@
     font-family: sans-serif;
 }
 
+body{
+    scroll-behavior: smooth;
+}
+
 .nav-bar {
     height: 75px;
     background-color: #2c2a2a;
-    position: absolute;
+    position: fixed;
     z-index: 1000;
     width: 100%;
     display: flex;
@@ -44,10 +48,10 @@
   padding-top: calc(3.5rem + 10vh);
 }
 
-#title, #subtitle , form{
+#title, #subtitle , .input{
   position: relative;
-  padding-left: 10%;
-  padding-top: 10%;
+  text-align: center;
+  padding-top: 20vh;
   font-size: 2rem;
 }
 
@@ -56,18 +60,28 @@
   padding-top: 2rem;
 }
 
-#home-img{
-  position: absolute;
-  left: 50%;
-  height: 500px;
-  width: 500px;
-  top: 20vh;
-  display: inline-block;
+.input {
+    position: relative;
+    padding-top:5vh;
 }
 
-form input {
+.input input{
     border-style: none;
     border-radius: 5px;
+}
+
+#learn{
+    background-color: rgb(49, 43, 49);
+    color: white;
+}
+
+#learn:active{
+    background-color: rgb(83, 80, 83);
+    color: white;
+}
+
+.input input:active{
+    background-color: gray;
 }
 
 input {
@@ -79,17 +93,13 @@ form{
     padding-top: 10px;
 }
 
-#learn{
-    background-color: rgb(184, 96, 184);
-}
-
 .logo {
     display: flex;
     align-items: center;
 }
 
 .logo img {
-    height: 50px;
+    height: 25px;
     margin-right: 10px;
 }
 
